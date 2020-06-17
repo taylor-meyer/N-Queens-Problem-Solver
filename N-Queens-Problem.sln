@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "N-Queens-Problem", "N-Queens-Problem\N-Queens-Problem.pyproj", "{A3477F43-7450-48FE-9235-7EB8497C0244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3477F43-7450-48FE-9235-7EB8497C0244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3477F43-7450-48FE-9235-7EB8497C0244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38535651-5F42-4D07-AF2B-049A312DEEC9}
+	EndGlobalSection
+EndGlobal
